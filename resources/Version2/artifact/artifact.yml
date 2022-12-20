@@ -76,7 +76,7 @@ domains:
     product: [ 20, 21 ]
   - name: "缘觉塔"
     product: [ 22, 23 ]
-  - name: "3.3新圣遗物本"
+  - name: "赤金的城墟"
     product: [ 24, 25 ]
 
 suitNames:
